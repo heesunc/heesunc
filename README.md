@@ -22,6 +22,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesunc&layout=compact)](https://github.com/heesunc/github-readme-stats)
   
+<!--
 ### 📚 Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,6 +68,7 @@
 <br>
 <br>
  
+-->
 ## 💯 백준 티어
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesun9113)](https://solved.ac/heesun9113)
 
