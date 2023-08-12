@@ -67,13 +67,6 @@
 
 <br>
 <br>
- 
--->
-## 💯 백준 티어
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesun9113)](https://solved.ac/heesun9113)
-
-<br>
-<br>
   
 ## 📈 GitHub Stats
 [![heesunc GitHub stats](https://github-readme-stats.vercel.app/api?username=heesunc)](https://github.com/heesunc/github-readme-stats)
