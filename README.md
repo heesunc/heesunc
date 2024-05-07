@@ -8,7 +8,7 @@
 <br>
  
 ## 💛 
-게임 클라이언트 개발 공부하고 있습니다. 😊!
+게임 클라이언트 개발 공부하고 있습니다. 😊
 
 <br>
 <br>
@@ -16,8 +16,10 @@
 ## 😎 My Stack
 ### 🎮 Game (Main)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesunc&layout=compact)](https://github.com/heesunc/github-readme-stats)
   
