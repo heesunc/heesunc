@@ -87,7 +87,6 @@
 
   
 ## 💌 E-mail
-[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000&link=mailto:sunny458@naver.com)](mailto:sunny458@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunnywkd123@gmail.com)](mailto:sunnywkd123@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:heesun9113@naver.com)](mailto:heesun9113@naver.com)
  
